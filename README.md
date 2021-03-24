@@ -7,3 +7,5 @@ Neural Networks implementation for WUT 2021L classes
 1. Basic implementation (forward propagation)
 2. Backpropagation & weights visualization
 3. Momentum and RMSProp
+4. Softmax & classification
+5. Testing various activations
