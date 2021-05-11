@@ -16,3 +16,4 @@ Neural Networks implementation for WUT 2021L classes
     2. Hexagonal with more complicated datasets
 3. Genetic algorithms
     1. Basic implementation
+    2. Cutting stock problem
