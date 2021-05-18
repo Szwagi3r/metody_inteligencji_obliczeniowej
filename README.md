@@ -17,3 +17,6 @@ Neural Networks implementation for WUT 2021L classes
 3. Genetic algorithms
     1. Basic implementation
     2. Cutting stock problem
+    3. MLP learning with genetic algorithm
+    4. NEAT implementation part 1
+    5. NEAT implementation part 2
